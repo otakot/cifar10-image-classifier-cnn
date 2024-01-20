@@ -1,8 +1,23 @@
 #dataset
-/data/*
+/data
 
 #Git files
 /.git
 
+#Python virtual environment files
+/.env
+
+#Tensorboard logs
+/log
+
+#Save model checkpoints
+/checkpoints
+
+#Jupyter notebooks
+/notebooks
+
 #MacOS files
 .DS_Store
+
+# Python runtime artefacts
+**/__pycache__
