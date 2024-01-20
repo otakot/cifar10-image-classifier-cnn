@@ -1,0 +1,8 @@
+#dataset
+/data/*
+
+#Git files
+/.git
+
+#MacOS files
+.DS_Store
